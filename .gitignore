@@ -1,0 +1,25 @@
+# OS's sometimes leave this junk
+.DS_Store
+*~
+Thumbs.db
+
+# vim drops these once in a while
+.*.swp
+
+# emacs likes to leave these around
+\#*\#
+.\#*
+
+# visual studio cruft
+*.suo
+*.user
+*.webinfo
+
+# ignore compiled python files
+*.pyc
+
+# ignore rails junk
+.bundle
+log/*.log
+tmp/**/*
+
