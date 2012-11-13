@@ -7,7 +7,7 @@ important information for each step.
 
 2. Something
 
-3. Something
+3. Issue #3 is fixed 
 
 4. Something
 
