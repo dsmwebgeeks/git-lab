@@ -19,7 +19,7 @@ important information for each step.
 
 8. Something
 
-9. Something
+9. Something awesomesauces
 
 10. Something
 
