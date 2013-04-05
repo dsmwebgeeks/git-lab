@@ -5,7 +5,7 @@ important information for each step.
 
 1. Something
 
-2. Something
+2. Something. Something.
 
 3. Something
 
