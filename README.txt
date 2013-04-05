@@ -13,7 +13,7 @@ important information for each step.
 
 5. Something
 
-6. Something
+6. the cake is a lie.
 
 7. Something
 
