@@ -15,7 +15,7 @@ important information for each step.
 
 6. Something
 
-7. Something
+7. broox rules
 
 8. Something
 
